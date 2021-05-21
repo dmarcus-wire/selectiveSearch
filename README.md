@@ -18,6 +18,11 @@ Benefits:
 1. accurate detecting regions of an image containing the object
 1. passes candidates downstream
 
+![output](output/ss-out1.png)
+![output](output/ss-out2.png)
+![output](output/ss-out3.png)
+![output](output/ss-out4.png)
+
 Running the fast method on the drone image: .47s generated 327 proposals. Most could be filtered out via pipeline.
 [INFO] using *fast* selective search
 [INFO] selective search took 0.4779 seconds
